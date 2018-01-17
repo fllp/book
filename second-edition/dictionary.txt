@@ -267,7 +267,6 @@ newtypes
 nitty
 nocapture
 nomicon
-Nomicon
 nonequality
 NotFound
 null's
@@ -345,6 +344,7 @@ Rustaceans
 rUsT
 rustc
 rustdoc
+Rustonomicon
 rustup
 screenshot
 searchstring
