@@ -79,6 +79,7 @@ Ctrl
 customizable
 CustomSmartPointer
 CustomSmartPointers
+data’s
 deallocate
 deallocated
 deallocating
